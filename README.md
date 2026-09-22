@@ -374,3 +374,16 @@ In other words: **take it, break it, ship it, be dope about it.**
 </div>
 
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
+
+----
+
+Made with ♥️ by
+```py
+DREW-V := {
+  "Simplicity in the Architecture",
+  "Efficiency in the Engineering",
+  "Purity in the Science",
+  "Audacity in the Art",
+  "Life in the Logic"
+}
+```
