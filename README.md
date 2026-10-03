@@ -11,6 +11,7 @@
 # DopeData
 
 ### Pipeline Explorability for the Modern Data Stack
+**Fivetran &rarr; dbt lineage tracking · Business-day freshness intelligence · Zero-cloud, zero-lock-in**
 
 <!-- BADGE ROW -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -19,7 +20,6 @@
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-**Fivetran &rarr; dbt lineage tracking · Business-day freshness intelligence · Zero-cloud, zero-lock-in**
 
 [⚡ Quick Start](#-quick-start) · [📐 Architecture](#-architecture) · [🔌 Plugins](#-plugin-system) · [🧪 Testing](#-testing)
 
