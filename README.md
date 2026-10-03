@@ -10,7 +10,7 @@
 
 # DopeData
 
-### Pipeline Explorability for the Modern Data Stack
+### *Pipeline Explorability* for the Modern Data Stack
 **Fivetran &rarr; dbt lineage tracking · Business-day freshness intelligence · Zero-cloud, zero-lock-in**
 
 <!-- BADGE ROW -->
