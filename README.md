@@ -8,8 +8,6 @@
 
 <img src="https://raw.githubusercontent.com/dvandagriff/DopeData/main/.github/images/banner.jpg" width="85%" alt="DopeData Banner"/>
 
-# DopeData
-
 ### *Pipeline Explorability* for the Modern Data Stack
 **Fivetran &rarr; dbt lineage tracking · Business-day freshness intelligence · Zero-cloud, zero-lock-in**
 
